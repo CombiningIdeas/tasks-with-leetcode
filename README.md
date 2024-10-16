@@ -1,4 +1,4 @@
-# Tasks from litcode
+# Tasks from leetcode
 
 ## This repository was created to post tasks from litcode here
 
